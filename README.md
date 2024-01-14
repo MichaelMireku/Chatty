@@ -1,4 +1,4 @@
-# Chatty - Conversational AI
+# Chatty 
 
 This project demonstrates an advanced chat application powered by Conversational AI, integrating features such as sentiment analysis, knowledge base interaction, and dynamic conversation context. The application utilizes the OpenAI API for intelligent response generation.
 
